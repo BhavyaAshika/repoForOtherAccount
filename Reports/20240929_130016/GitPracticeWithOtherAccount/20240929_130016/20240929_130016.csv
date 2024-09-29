@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+GitPracticeWithOtherAccount,Edge Chromium 129,,,29-09-2024 13:00:22,29-09-2024 13:00:29,7.603s,PASSED
+,,,,,,,
+Test Cases/GitPracticeWithOtherAccount,Edge Chromium 129,,,29-09-2024 13:00:22,29-09-2024 13:00:29,7.336s,PASSED
+"openBrowser("""")",Edge Chromium 129,,,29-09-2024 13:00:22,29-09-2024 13:00:27,4.780s,PASSED
+"navigateToUrl(""https://petstore.octoperf.com/"")",Edge Chromium 129,,,29-09-2024 13:00:27,29-09-2024 13:00:28,1.318s,PASSED
+"verifyElementText(findTestObject(""Object Repository/GitPracticeWithOtherAccount/Page_JPetStore Demo/a_Enter the Store""), ""Enter the Store"")",Edge Chromium 129,,,29-09-2024 13:00:28,29-09-2024 13:00:29,0.580s,PASSED
+closeBrowser(),Edge Chromium 129,,,29-09-2024 13:00:29,29-09-2024 13:00:29,0.320s,PASSED

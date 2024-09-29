@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GitPracticeWithOtherAccount</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>f8798f3b-7737-4016-8a7a-783a43977cc4</testCaseGuid>
+</TestCaseEntity>
